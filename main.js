@@ -1,6 +1,6 @@
 var DEBUG = false;
-var SPEED = 1200;
-var GRAVITY = 500;
+var SPEED = 100;
+var GRAVITY = 960;
 var FLAP = 500;
 var SPAWN_RATE = 1 / 1.2;
 var OPENING = 134;
